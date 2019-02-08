@@ -1,6 +1,6 @@
 项目介绍：     
 ------  
-Lin基于SpringBoot,目标是实现自动办公,现阶段整合springmvc + shiro + mybatis + Thymeleaf等常见框架，包含用户管理、部门管理、通知管理、日志管理、便签、角色管理、菜单配置、请假、请假审核、代码生成 模块。   
+Sing基于SpringBoot,目标是实现自动办公,现阶段整合springmvc + shiro + mybatis + Thymeleaf等常见框架，包含用户管理、部门管理、通知管理、日志管理、便签、角色管理、菜单配置、请假、请假审核、代码生成 模块。   
            
 默认管理员账号：ttt  密码：ttt
 ------
@@ -13,13 +13,7 @@ Lin基于SpringBoot,目标是实现自动办公,现阶段整合springmvc + shiro
         ★部门解散后，此部门用户自动设置部门为 未分配    
         ★删除角色后，之前此角色用户自动配置为 用户       
         ★可通过角色来配置要显示的菜单      
-  
-相关视频    
------- 
-[导入项目](https://pan.baidu.com/s/1qXEsFN2)     
-[使用教程](https://pan.baidu.com/s/1cwK5Hk)       
-[代码生成](https://pan.baidu.com/s/1kVb30NX)        
-
+ 
 
 项目特点
 ------
